@@ -1,0 +1,1 @@
+The folder contains the shapefiles that were used as ground truth for footprint extraction task. Each polygon/part of polygon has been assigned the specific id of tile it belongs to create one-to-one matching with tiles.
