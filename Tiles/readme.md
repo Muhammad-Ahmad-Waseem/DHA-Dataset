@@ -1,0 +1,1 @@
+The Folder contains the training and testing tiles in shapefile format. The files are in projected coordinate reference system (EPSG:3857) and contain the tiling policy we used to create training and testing tiles.
